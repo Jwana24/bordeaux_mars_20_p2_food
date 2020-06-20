@@ -1,6 +1,8 @@
 ## Project 2 - Food 
 
-With developer Johanna, David and Pierre.
+Developpers : Johanna, David and Pierre.
+
+<img width="1440" alt="Capture d’écran 2020-06-20 à 13 46 19" src="https://user-images.githubusercontent.com/38757545/85201047-87ea3f80-b2fc-11ea-9aa7-504e45275e96.png">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
